@@ -1,0 +1,16 @@
+
+Convolutional Neural Network
+
+https://setosa.io/ev/image-kernels/
+
+https://towardsdatascience.com/basics-of-kernels-and-convolutions-with-opencv-c15311ab8f55
+
+https://arbu00.blogspot.com/2016/11/opencv7-2d-convolution-image-filtering.html
+
+https://poloclub.github.io/cnn-explainer/
+
+https://zh.wikipedia.org/zh-tw/標準分數
+
+https://keras.io/api/layers/normalization_layers/batch_normalization/
+
+
